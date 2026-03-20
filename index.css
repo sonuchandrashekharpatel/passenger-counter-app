@@ -37,8 +37,4 @@ button {
     background: darkgreen;
 }
 
-#save-btn:active,
-#increment-btn:active {
-    border: 2px solid lightblue;
-}
 
